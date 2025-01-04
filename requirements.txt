@@ -1,2 +1,4 @@
 -r default.txt
 requests
+
+-r manifests/sub/testdeps.txt
