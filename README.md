@@ -1,1 +1,1 @@
-# repository with difference combination of puython requirements manifest files
+# repository with different combination of puython requirements manifest files
